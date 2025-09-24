@@ -32,7 +32,7 @@ body{
   border-right: 1px solid var(--line-clr);
 
   position: sticky;
-  top: 0;
+  bottom: 0;
   align-self: start;
   transition: 300ms ease-in-out;
   overflow: hidden;
